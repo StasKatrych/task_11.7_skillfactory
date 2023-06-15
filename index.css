@@ -1,0 +1,112 @@
+table{
+    -webkit-text-size-adjust: 100%;
+    color: #222;
+    font-style: normal;
+    text-align: left;
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    list-style: none;
+    word-wrap: break-word;
+    box-sizing: inherit;
+    border-spacing: 0;
+    table-layout: auto;
+    word-break: normal;
+    line-height: 1.4em;
+    width: 100%;
+    margin: 20px 0;
+    border-collapse: collapse;
+    font-size: 16px;  
+}
+
+thead{
+    -webkit-text-size-adjust: 100%;
+    color: #222;
+    font-style: normal;
+    text-align: left;
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    list-style: none;
+    word-wrap: break-word;
+    border-spacing: 0;
+    word-break: normal;
+    border-collapse: collapse;
+    font-size: 16px;
+    box-sizing: inherit;
+    line-height: 1.4em;
+}
+
+tbody{
+    -webkit-text-size-adjust: 100%;
+    color: #222;
+    font-style: normal;
+    text-align: left;
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    list-style: none;
+    word-wrap: break-word;
+    border-spacing: 0;
+    word-break: normal;
+    border-collapse: collapse;
+    font-size: 16px;
+    box-sizing: inherit;
+    line-height: 1.4em;
+}
+
+tr{
+    -webkit-text-size-adjust: 100%;
+    color: #222;
+    font-style: normal;
+    text-align: left;
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    list-style: none;
+    word-wrap: break-word;
+    border-spacing: 0;
+    word-break: normal;
+    border-collapse: collapse;
+    font-size: 16px;
+    box-sizing: inherit;
+    line-height: 1.4em;
+}
+
+th{
+    -webkit-text-size-adjust: 100%;
+    color: #222;
+    font-style: normal;
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    list-style: none;
+    word-wrap: break-word;
+    border-spacing: 0;
+    word-break: normal;
+    border-collapse: collapse;
+    box-sizing: inherit;
+    text-align: center;
+    font-size: inherit !important;
+    line-height: 1.4em;
+    background: #eee;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid #c8c8c8;
+}
+
+td{
+    -webkit-text-size-adjust: 100%;
+    color: #222;
+    font-style: normal;
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    list-style: none;
+    word-wrap: break-word;
+    border-spacing: 0;
+    word-break: normal;
+    border-collapse: collapse;
+    box-sizing: inherit;
+    vertical-align: top;
+    text-align: left;
+    font-size: inherit !important;
+    line-height: 1.4em;
+    margin: 20px 0;
+    padding: 10px;
+    border: 1px solid #c8c8c8;
+
+}
+
+h1{
+    text-align: center
+}
